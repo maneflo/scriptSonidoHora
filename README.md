@@ -1,4 +1,4 @@
-# Sonido de la Hora como el reloj de madera
+# Sonido de la Hora como el reloj de madera (no funciona - por ahora es solo una experiencia de aprendizaje)
  Script en bash para que suene a la hora y la media hora, comparto los sonidos de campanas obtenidos de freesound.org
  ## los link de los sonidos
  https://freesound.org/people/Martineerok/sounds/148284/  </p>
