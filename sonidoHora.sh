@@ -9,7 +9,7 @@ while true; do
   hora_actual=$(date +"%H:%M")
 #pruebas para ver porque no sonaba cuando quería. lo que me tiraba gemini no dió los resultados.
 #echo $hora_actual
-#  minutos=$(echo "$hora_actual" | cut -c 4-5)
+  minutos=$(echo "$hora_actual" | cut -c 4-5)
 #echo $minutos
   # Si el minuto es 00  reproducir el sonido
   if [[ "$minutos" -eq 00  ]]; then
